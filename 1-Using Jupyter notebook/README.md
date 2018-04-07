@@ -1,0 +1,1 @@
+A walk through how to work in the Jupyter environment. Jupyter is a widely used data science environment that combines a rich text editor with a console. The Jupyter project was originally called IPython, and focused on supporting just the Python language. Over time, support for other languages like R and Julia were added and the project was renamed to Jupyter.
