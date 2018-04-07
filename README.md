@@ -12,4 +12,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 * __R__
   * __Data Exploration__
-    * _1-Introduction to Probability and Data_: Exploring the Behavioral Risk Factor Surveillance System (BRFSS)
+    * __1-Introduction to Probability and Data__: Exploring the Behavioral Risk Factor Surveillance System (BRFSS)
