@@ -11,6 +11,7 @@ Repository containing portfolio of data science projects completed by me for aca
     * __4-Analyzing Thanksgiving Dinner__: Analysis of data on Thanksgiving dinner in the US. Exploration with Pandas.
     * __5-Visualizing Earnings Based On College Majors__: Some visualization on job outcomes was released by American Community Survey.
     * __6-Visualizing The Gender Gap In College Degrees__: Working on aestetics of visualizations.
+    * __7-Analyzing NYC High School Data__: Data Manipulation, Data Visualition: barplots, scatterplots, maps(Basemap)
 
 * __R__
   * __Data Exploration__
