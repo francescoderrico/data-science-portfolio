@@ -16,4 +16,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 * __R__
   * __Data Exploration__
-    * __[1-Introduction to Probability and Data]__(https://github.com/francescoderrico/data-science-portfolio/tree/master/1-Introduction%20to%20Probability%20and%20Data): Exploring the Behavioral Risk Factor Surveillance System (BRFSS)
+    * [__1-Introduction to Probability and Data__](https://github.com/francescoderrico/data-science-portfolio/tree/master/1-Introduction%20to%20Probability%20and%20Data): Exploring the Behavioral Risk Factor Surveillance System (BRFSS)
