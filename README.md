@@ -12,6 +12,7 @@ Repository containing portfolio of data science projects completed by me for aca
     * __5-Visualizing Earnings Based On College Majors__: Some visualization on job outcomes was released by American Community Survey.
     * __6-Visualizing The Gender Gap In College Degrees__: Working on aestetics of visualizations.
     * __7-Analyzing NYC High School Data__: Data Manipulation, Data Visualition: barplots, scatterplots, maps(Basemap)
+    * __8-Star Wars Survey__: Data Cleaning, Data Wrangling, Data Exploration
 
 * __R__
   * __Data Exploration__
